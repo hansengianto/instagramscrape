@@ -15,5 +15,8 @@ Get Data Without Login
 <br>
 - python3 post.py or python post.py (Scrape Instagram Post Data)
 
+<h2>Anticipate Limit Use Proxy</h2>
+- <a href="https://stackoverflow.com/questions/8287628/proxies-with-python-requests-module"><b>Check Here</b></a>
+
 <h2>Contact Me</h2>
 - <a href="https://instagram.com/hansen_gianto" target="_blank"><b>Instagram</b></a>
